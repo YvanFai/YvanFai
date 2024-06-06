@@ -5,14 +5,6 @@
 <h3 align="center">A passionate data scientist from Madagascar !</h3>
 
 <br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **a chatbot**
- 
- 🌱 I’m currently learning **Recurrent Neural Networks**
-
- </div>
  
  <hr/>
  
