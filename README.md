@@ -2,16 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=ANDRIAMBOLOLOHASINA;+Yvan+Faideau;" />
 </h1>
 
-<h3 align="center">A passionate developper from Madagascar!</h3>
-
-<br/>
- 
- <hr/>
-
-<br/>
-<hr/>
-<hr/>
-
+<h3 align="center">A passionate developper from Madagascar !</h3>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
