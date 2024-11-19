@@ -1,5 +1,5 @@
 <h1 align=center> AKORY EE!😁 </h1>
-<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=ANDRIAMBOLOLOHASINA+Yvan+Faideau"></h1>
+<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=Yvan+Faideau"></h1>
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=TohyNyAina&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" /> </p>
