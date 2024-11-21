@@ -1,5 +1,5 @@
 <h1 align=center> Tongasoa!😁 </h1>
-<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines= ANDRIAMBOLOLOHASINA+Yvan+Faideau"></h1>
+<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=ANDRIAMBOLOLOHASINA+Yvan+Faideau"></h1>
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center"> 
