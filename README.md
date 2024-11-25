@@ -1,4 +1,4 @@
-<h1 align=center> Welcome!😁 </h1>
+<h1 align=center> Tongasoa Ianao!😁 </h1>
 <h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=Yvan+Faideau"></h1>
 
 <h3 align="center">Languages and Tools:</h3>
