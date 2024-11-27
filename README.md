@@ -18,7 +18,8 @@
 
 <br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yvanfai)
+![GitHub Streak](https://streak-stats.demolab.com/?user=yvanfai&theme=dark&hide_border=true)
+
 
     
 </div>
