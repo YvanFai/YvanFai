@@ -1,6 +1,10 @@
 <h1 align=center> Tongasoa Ianao!😁 </h1>
 <h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=Yvan+Faideau"></h1>
 
+<br>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=yvanfai&theme=dark&hide_border=true) 
+
 <h3 align="center">Languages and Tools:</h3>
 <div align="center"> 
 
@@ -15,10 +19,6 @@
 <br>
  
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-
-<br>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=yvanfai&theme=dark&hide_border=true) 
 
 <br>
 
