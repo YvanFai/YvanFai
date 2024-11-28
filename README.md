@@ -40,10 +40,6 @@
 </div>
 
 
-<div align="center"> ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=yvanfai&show_icons=true&theme=radical)
- </div>
-
-
 
 
 
