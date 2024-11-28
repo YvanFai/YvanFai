@@ -1,4 +1,4 @@
-<h1 align=center> "Ce n’est pas que je sois si intelligent, c’est que je reste plus longtemps avec les problèmes." </h1>
+<h3 align=center> "Ce n’est pas que je sois si intelligent, c’est que je reste plus longtemps avec les problèmes." </h3>
 <h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=20&center=true&vCenter=true&lines=ANDRIAMBOLOLOHASINA+Yvan+Faideau"></h1>
 
 <br>
