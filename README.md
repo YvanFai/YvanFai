@@ -5,8 +5,6 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yvanfai&theme=dark&hide_border=true) 
-
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
