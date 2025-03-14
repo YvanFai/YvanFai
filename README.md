@@ -31,7 +31,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvanfai&layout=compact&theme=dark)
+![Top Langs](<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvanfai&layout=compact&theme=radical" alt="Top Langs"/>)
 
 
 
