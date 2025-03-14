@@ -31,8 +31,9 @@
 
 <br>
 
-![Top Langs](<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvanfai&layout=compact&theme=radical" alt="Top Langs"/>)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvanfai&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
 
 
 </div>
